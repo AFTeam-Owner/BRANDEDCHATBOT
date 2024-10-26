@@ -2,19 +2,19 @@
     "name": "chatbot",    
     "env": {
         "BOT_TOKEN": {
-            "description": "telegram bot token here",
+            "description": "7696365835:AAHrqc2vjqAURAoNuHDb2bZ9d4henpotXs8",
             "required": true
         },        
         "MONGO_URL": {
-            "description": "mongo db url here",
+            "description": "mongodb+srv://sfking850:0POYYpqzyoo1XOpo@af.naqr7.mongodb.net/?retryWrites=true&w=majority&appName=AF",
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "telegram bot username here without @",
+            "description": "testing646764robot",
             "required": false
         },
         "OWNER_USERNAME": {
-            "description": "Owner Username without @",
+            "description": "AF_Team_Owner",
             "required": false
         },
         "BOT_NAME": {
